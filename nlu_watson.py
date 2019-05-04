@@ -9,7 +9,7 @@ from imagesoup import ImageSoup
 ###########################NLP_API_KEY######################################
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2018-03-16',
-    iam_apikey='#################################',
+    iam_apikey='Enter Your API Key here',
     url='https://gateway-lon.watsonplatform.net/natural-language-understanding/api'
 )
 ###############################FIRESTORE_API_KEY############################
